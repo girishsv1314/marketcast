@@ -1,2 +1,2 @@
 name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,custom:accountstartdate,custom:accountenddate,custom:internaluser,custom:reportbuilder,custom:adsnapshots,custom:adpi,custom:dante,cognito:mfa_enabled,cognito:username
-shari.sternbach,shari,sternbach,,,,,,,shari.sternbach@marketcast.com,TRUE,,,,,,FALSE,,,10-03-2023,10-03-2099,Y,TRUE,TRUE,FALSE,FALSE,,sharisternbach
+shari.sternbach,shari,sternbach,,,,,,,shari.sternbach@marketcast.com,TRUE,,,,,,FALSE,,,10-03-2023,10-03-2099,Y,TRUE,TRUE,FALSE,FALSE,FALSE,sharisternbach
