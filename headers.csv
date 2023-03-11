@@ -1,0 +1,2 @@
+name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,custom:accountstartdate,custom:phoneNumber,custom:adsnapshots-public,custom:accountenddate,custom:companyName,custom:wkspool,cognito:mfa_enabled,cognito:username
+shari.sternbach.marketcast.com,shari,sternbach,,,,,,,shari.sternbach@marketcast.com,TRUE,,,,,,FALSE,,,10-03-2023,FALSE,TRUE,10-03-2099,FALSE,FALSE,FALSE,shari.sternbach.marketcast.com
