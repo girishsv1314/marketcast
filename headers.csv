@@ -1,2 +1,0 @@
-name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,custom:accountstartdate,custom:phoneNumber,custom:adsnapshots-public,custom:accountenddate,custom:companyName,custom:wkspool,cognito:mfa_enabled,cognito:username
-joshua.grullon.marketcast.com,joshua,grullon,,,,,,,joshua.grullon@marketcast.com,TRUE,,,,,,FALSE,,,17-03-2023,FALSE,TRUE,29-03-2099,Marketcast,TRUE,FALSE,joshua.grullon.marketcast.com
