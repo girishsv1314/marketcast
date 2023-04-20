@@ -1,0 +1,2 @@
+name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,custom:accountstartdate,custom:accountenddate,custom:internaluser,custom:reportbuilder,custom:adsnapshots,custom:adpi,custom:dante,cognito:mfa_enabled,cognito:username
+chris.polvere,chris,polvere,,,,,,,chris.polvere@marketcast.com,TRUE,,,,,,FALSE,,,20-04-2023,20-04-2099,Y,TRUE,FALSE,FALSE,FALSE,FALSE,chrispolvere
