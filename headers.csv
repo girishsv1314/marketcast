@@ -1,0 +1,2 @@
+name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,custom:accountstartdate,custom:accountenddate,custom:internaluser,custom:reportbuilder,custom:adsnapshots,custom:adpi,custom:dante,cognito:mfa_enabled,cognito:username
+vivek.jaishankar,vivek,jaishankar,,,,,,,vivek.jaishankar@marketcast.com,TRUE,,,,,,FALSE,,,10-05-2023,10-05-2099,Y,FALSE,TRUE,FALSE,FALSE,FALSE,vivekjaishankar
