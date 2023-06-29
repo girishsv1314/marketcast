@@ -1,0 +1,2 @@
+name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,custom:accountstartdate,custom:accountenddate,custom:internaluser,custom:reportbuilder,custom:adsnapshots,custom:adpi,custom:dante,cognito:mfa_enabled,cognito:username
+aikum.talwar,aikum,talwar,,,,,,,aikum.talwar@marketcast.com,TRUE,,,,,,FALSE,,,30-06-2023,30-06-2099,Y,TRUE,FALSE,TRUE,FALSE,FALSE,aikumtalwar
